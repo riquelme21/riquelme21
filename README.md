@@ -4,7 +4,7 @@ Em[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riquelme.a.l@hotmail.com)
 
 ![Riquelme GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelme21&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelme21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelme21)](https://github.com/riquelme21/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
