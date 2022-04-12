@@ -13,4 +13,4 @@ Em[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&
   <img aling="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
  </div><br/>
  
- Apaixonado por finanças quantitativas, machine learning e por transformar o mercado financeiro com essas ferramentas
+ Apaixonado por finanças quantitativas e mercado financeiro
